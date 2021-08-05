@@ -11,8 +11,8 @@
     <br>
         Reserved |
         Reserved |
-        <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
-        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
+        <a href="http://Wa.me/+642721466863">by pub-rayappan</a> |
+
     <br>
 </p>
 
