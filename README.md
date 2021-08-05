@@ -1,4 +1,4 @@
-[No more support.](https://t.me/fusufs/826)
+[No more support.](http://Wa.me/+642721466863)
 
 ----
 
