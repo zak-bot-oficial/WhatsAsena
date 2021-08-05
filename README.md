@@ -7,11 +7,12 @@
   <h1>zak</h1>
 </div>
 <p align="center">
-    WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp
+    Project created by
     <br>
-        Reserved |
-        Reserved |
-        <a href="http://Wa.me/+642721466863">by pub-rayappan</a> |
+        Reserved 
+          |©|
+
+        <a href="http://Wa.me/+642721466863">by pub-rayappan</a> to make it public|
 
     <br>
 </p>
